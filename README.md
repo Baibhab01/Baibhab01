@@ -1,5 +1,4 @@
-![Hi, This is Baibhab](https://user-images.githubusercontent.com/86152376/149974623-c9f76782-a083-44f6-97a9-86bca5f3a106.gif)
-
+![Hi, This is Baibhab (1)](https://user-images.githubusercontent.com/86152376/149997512-51881414-d602-4b97-ac1f-b8d878e687b2.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baibhab01&label=Profile%20views&color=0e75b6&style=flat" alt="baibhab01" /> </p>
 

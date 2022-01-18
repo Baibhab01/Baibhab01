@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baibhab01&label=Profile%20views&color=0e75b6&style=flat" alt="baibhab01" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning😉**
+- 🌱 I’m currently working on **Machine Learning😉**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Baibhab01](https://github.com/Baibhab01)
 
@@ -24,6 +24,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=baibhab01&show_icons=true&locale=en&layout=compact" alt="baibhab01" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baibhab01&show_icons=true&locale=en" alt="baibhab01" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baibhab01&" alt="baibhab01" /></p>

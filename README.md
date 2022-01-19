@@ -1,4 +1,5 @@
-![Hi, This is Baibhab (1)](https://user-images.githubusercontent.com/86152376/149997512-51881414-d602-4b97-ac1f-b8d878e687b2.gif)
+![Hii! This is Baibhab (4)](https://user-images.githubusercontent.com/86152376/150071389-46258fe2-6159-4387-a970-e6118ad2d413.gif)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baibhab01&label=Profile%20views&color=0e75b6&style=flat" alt="baibhab01" /> </p>
 
@@ -15,6 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/baibhab nayak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baibhab nayak" height="30" width="40" /></a>
+  <a href="https://instagram.com/- https://www.instagram.com/baibhab_01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="- https://www.instagram.com/_priti_k/" height="30" width="40" /></a>
 <a href="https://kaggle.com/baibhab nayak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="baibhab nayak" height="30" width="40" /></a>
 </p>
 

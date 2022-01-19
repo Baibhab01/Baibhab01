@@ -29,9 +29,4 @@
  
   ![](https://activity-graph.herokuapp.com/graph?username=baibhab01&theme=react-dark&hide_border=true&area=true)
 	
-![](https://komarev.com/ghpvc/?username=baibhab01&color=79FFE1)	
-	
-<!-- <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/padmajabhol/count.svg" />
-</p>
+
